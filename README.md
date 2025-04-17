@@ -1,1 +1,6 @@
 # spotify-clone
+
+# STUDENT
+SRIPADH
+# CRICKETER
+VIRAT
